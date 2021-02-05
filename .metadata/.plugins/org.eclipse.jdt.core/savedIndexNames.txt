@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+F:\dev\practice\Learn\.metadata\.plugins\org.eclipse.jdt.core
